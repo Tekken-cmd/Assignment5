@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    background-color: cornsilk;
+}
+
+h1 {
+    color: mediumseagreen;
+}
+
+.imgContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.imgContainer h2 {
+    padding-left: 20px;
+    display: inline-block;
+}
+
+#myTable,
+tr,
+td {
+    border: 1px solid powderblue;
+}
+#myTable {
+    margin: 10px auto;
+    height: auto;
+    width: 300px;
+}
